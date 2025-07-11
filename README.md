@@ -1,4 +1,5 @@
--  👩‍💻Melody Alejandra Gutierrez Caero| Estudiante de Ingenieria de Sistemas
+# HOLA!🖐️Mi nombre es Melody Alejandra Gutierrez Caero
+-  👩‍💻Estudiante de Ingenieria de Sistemas
 -  📍Cochabamba, Bolivia
 -  💻Codigo y creatividad: mi formula para aprender.
 -  📚En constante aprendizaje de programacion y desaerrollo de software.
