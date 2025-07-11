@@ -1,4 +1,4 @@
-- 💬 Mi nombre: Meloy Alejandra Gutierrez Caero
+- 💬 Mi nombre: Melody Alejandra Gutierrez Caero
 - 👩‍🎓 Estudio: Ingenieria de Sistemas
 - ⚡ "Cada pequeño paso te acerca a un gran logro".
 - ⚡ "Todo logro empieza con la decision de intentarlo".
